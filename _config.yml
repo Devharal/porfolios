@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Dev Haral
 description         : >-
-                      I am Dev undergraduate at IIT Mandi pursing Bachelors in Mechanical Engineering. I am Extremely interested in AI.
+                      I am a pre-final year undergraduate at IIT MANDI pursuing a B-TECH in Mechanical Engineering. I am extremely interested in coding and development. Working to secure a highly rewarding career, with each day enhancing and utilizing my skills and knowledge.
 #baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -15,10 +15,10 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - pages/index.md
-  #- documentation/partials/**                           # For Documentation Only
+  - docs/pages/tags.html
+  - docs/pages/404.html
+  - docs/pages/index.md
+#- documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
