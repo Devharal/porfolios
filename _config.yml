@@ -1,9 +1,7 @@
 ### Site Settings ###
-title               : Dev
+title               : Dev Haral
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am Dev undergraduate at IIT Mandi pursing Bachelors in Mechanical Engineering. I am Extremely interested in AI.
 #baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,17 +23,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Dev Haral
+  image             : assets/dev.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : devharal777@gmail.com
   facebook          : your_username
-  github            : your_username
+  github            : Devharal
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : dev-haral-007786220
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
