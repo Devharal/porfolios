@@ -31,7 +31,7 @@ disqus:
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: docs/projects/:name
   elements:
     output: true
 
