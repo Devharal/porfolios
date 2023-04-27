@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
+name: ICapNet 2023
 tools: [LSTM, CNN, Attention ,GPU,Python,Tensorflow]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: assets\readme.jpg
 description: The proposed method for automatic image captioning combines LSTM, CNN, and Attention Mechanism based on Flickr8k Dataset. It uses CNN to extract image features, LSTM to generate word sequences, and attention mechanism to focus on relevant image parts during captioning. This approach aims to improve caption accuracy and relevance.
-external_url: https://www.google.com
+external_url: https://drive.google.com/file/d/1WRfW8PiJzPfhP0MrkGVQd9mBp2nCgytu/view?usp=sharing-
 ---
