@@ -1,8 +1,8 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Xpecto-2022
+tools: [React,HTML,CSS,Responsive design,Problem-solving]
+description: Developed the first-ever techfest website ”Xpecto” for a college, using React-based frontend technology.Utilized expertise in React, HTML, CSS, and other web technologies to create an engaging and interactive website.Played a key role in the successful launch of the website, receiving positive feedback from users
+external_url: https://github.com/Devharal/xpecto
 ---
 
 # The Movies Project
