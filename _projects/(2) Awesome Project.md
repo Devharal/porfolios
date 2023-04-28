@@ -1,7 +1,7 @@
 ---
 name: Xpecto-2022
 tools: [React,HTML,CSS,Responsive design,Problem-solving]
-image: https://twitter.com/XpectoTech/header_photo
+image: https://raw.githubusercontent.com/Devharal/porfolios/main/assets/xpecto.jpg
 description: Developed the first-ever techfest website ”Xpecto” for a college, using React-based frontend technology.Utilized expertise in React, HTML, CSS, and other web technologies to create an engaging and interactive website.Played a key role in the successful launch of the website, receiving positive feedback from users
 external_url: https://github.com/Devharal/xpecto
 ---
