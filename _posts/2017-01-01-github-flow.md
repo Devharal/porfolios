@@ -5,7 +5,6 @@ style: fill
 color: primary
 description: In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models.
 external_url: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/
-
 ---
 
 Source: [GitHub Guides](https://guides.github.com/introduction/flow/)

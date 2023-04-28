@@ -6,6 +6,7 @@ color:
 description: Stuff for Deep learing , machine learning and Statistics
 external_url: https://e2eml.school/blog.html#121
 
+---
 
 Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
 
