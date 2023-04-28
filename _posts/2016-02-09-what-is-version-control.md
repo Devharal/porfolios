@@ -1,10 +1,12 @@
 ---
-title: What is version control?
-tags: [Version Control]
+title: CS583 Deep Learning
+tags: [Deep Learning]
 style: fill
 color: secondary
 comments: true
-description: Benefits of version control and version control systems.
+description: Amazing Deep Learning Course with slides and videos
+external_url: https://github.com/wangshusen/DeepLearning#cs583-deep-learning
+
 ---
 
 Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)

@@ -1,8 +1,8 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
+title: NLP Demystified
+tags: [Nitin Punjabi, NLP,Transformers,Deep Learning]
 style: fill
 color: warning
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+description: If your are looking to complete NLP with complete understanding and fast coding based this course is best for this!
+external_url: https://www.nlpdemystified.org/course
 ---
