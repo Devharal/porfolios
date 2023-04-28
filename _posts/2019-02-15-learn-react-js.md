@@ -1,9 +1,10 @@
 ---
-title: Learn React.js in 5 minutes
-tags: [React, JavaScript, Web Development]
+title: Understanding LSTM Networks
+tags: [LSTM,RNN]
 style: border
 color: primary
-description: A quick introduction to the popular JavaScript library.
+description: Very good blog if you are confused or couldnt understand LSTM Networks.
+external_url: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ---
 
 Source: [freecodecamp](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)

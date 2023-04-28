@@ -1,9 +1,11 @@
 ---
-title: What the heck is a Callback?
-tags: [JavaScript, Nodejs, Web Development]
+title: Deep Learning @ VU
+tags: [Deep Learning]
 style: fill
 color: danger
-description: Learn and understand the basics of callbacks in just 6 minutes with easy examples.
+description: Deep Learning at VU University Amsterdam
+external_url: https://dlvu.github.io/
+
 ---
 
 Source: [Brandon Morelli](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)

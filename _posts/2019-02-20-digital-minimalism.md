@@ -1,10 +1,11 @@
 ---
-title: Digital Minimalism
-tags: [Social Media, Minimalism, Technology]
+title: Brandon Rohrer
+tags: [ML,DL]
 style: 
 color: 
-description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
----
+description: Stuff for Deep learing , machine learning and Statistics
+external_url: https://e2eml.school/blog.html#121
+
 
 Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
 

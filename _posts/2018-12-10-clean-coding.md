@@ -1,9 +1,11 @@
 ---
-title: Clean Coding
-tags: [Software Development, Clean Code]
+title: CS7015 Deep Learning -Mitesh Khapra
+tags: [Deep Learning, CNN,NLP]
 style: fill
 color: info
-description: These four “clean code” tips will dramatically improve your engineering team’s productivity
+description: This is best course for beginners. The way sir teach concepts is unique than many other and very understandable. It has very curated slides and also assignments
+external_url: http://www.cse.iitm.ac.in/~miteshk/CS7015_2018.html
+
 ---
 
 Source: [Jonathan Fulton](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
