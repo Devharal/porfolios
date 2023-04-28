@@ -1,9 +1,11 @@
 ---
-title: Do not go gentle into that good night
+title: Deep Learning | University of Tübingen
 tags: [Poetry]
 style: fill
 color: light
 description: 
+external_url: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
+
 ---
 
 Do not go gentle into that good night,  
