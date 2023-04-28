@@ -1,9 +1,11 @@
 ---
-title: 4 Lessons After 11 Years in Silicon Valley
-tags: 
+title: UvA Deep Learning Tutorials!
+tags: [Tutorials]
 style: fill
 color: success
-description: On the realities of opportunity, success, reputation, and relationships in tech.
+description: The notebooks are presented in the first hour of every group tutorial session. During the tutorial sessions, we will present the content and explain the implementation of the notebooks.
+external_url: https://uvadlc-notebooks.readthedocs.io/en/latest/
+
 ---
 
 Source: [Ashley Mayer](https://medium.com/s/story/four-lessons-after-eleven-years-in-silicon-valley-d87507b7a4f6)

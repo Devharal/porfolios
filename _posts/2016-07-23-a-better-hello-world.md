@@ -1,9 +1,10 @@
 ---
-title: A better Hello World
-tags: [Software Development]
+title: The Illustrated Transformer -Jay Alammar
+tags: [Transformer,NLP]
 style: fill
 color: dark
-description: A different “hello world” to demonstrate language features better.
+description: The Transformer – a model that uses attention to boost the speed with which these models can be trained. The Transformer outperforms the Google Neural Machine Translation model in specific tasks.
+external_url: https://jalammar.github.io/illustrated-transformer/
 ---
 
 Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)

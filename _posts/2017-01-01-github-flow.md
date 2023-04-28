@@ -1,9 +1,11 @@
 ---
-title: GitHub Flow
-tags: [GitHub, Workflow]
+title: CS224n Natural Language Processing with Deep Learning
+tags: [Natural Language Processing, Stanford]
 style: fill
 color: primary
-description: GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+description: In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models.
+external_url: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/
+
 ---
 
 Source: [GitHub Guides](https://guides.github.com/introduction/flow/)

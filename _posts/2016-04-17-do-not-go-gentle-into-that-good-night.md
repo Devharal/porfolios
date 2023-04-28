@@ -1,9 +1,9 @@
 ---
 title: Deep Learning | University of Tübingen
-tags: [Poetry]
+tags: [Deep Learning]
 style: fill
 color: light
-description: 
+description: This course will introduce the practical and theoretical principles of deep neural networks. Amongst other topics, we will cover computation graphs, activation functions, loss functions, training, regularization and data augmentation as well as various basic and state-of-the-art deep neural network architectures including convolutional networks and graph neural networks.
 external_url: https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
 
 ---
