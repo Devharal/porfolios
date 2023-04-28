@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Dev Haral
 description         : >-
-                      Hi there, I'm  Dev Haral - a third-year Mechanical Engineering B.Tech student at IIT Mandi, with a burning passion for the exciting and ever-evolving field of Deep Learning and Natural Language Processing. I believe that my background in Mechanical Engineering gives me a unique perspective and an interdisciplinary approach to problem-solving, which, when combined with my passion for Deep Learning and NLP, opens up a world of possibilities for me. I am excited to embark on this journey of growth and development, and I'm looking forward to the opportunities and challenges that lie ahead.
+                      Hi there, I'm  Dev Haral - a third-year Mechanical Engineering B.Tech student at IIT Mandi, with a burning passion for the exciting and ever-evolving field of Deep Learning and Natural Language Processing. 
 #baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
