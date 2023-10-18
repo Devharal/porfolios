@@ -7,3 +7,9 @@
   from: Dec 2022
   to:  Mar 2023
   description: Maintained and optimized pretrained Variational Autoencoder (VAE) models for generating music, which were built on the TensorFlow framework on strong platform Google Colab Pro. Built an API to connect Reaper software, a digital audio workstation, with the VAE models, allowing for seamless integration and music generation through a specific Pipeline Developed a recommendation system for music based on genres,utilizing deep learning techniques such as LSTM and leveraging the output of the VAE models..
+
+- title: SDE @IIT Mandi iHub | Internship
+  from: Oct 2023
+  to:  Present
+  description: Working of LLM's AI Agents
+  
