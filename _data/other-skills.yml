@@ -4,7 +4,7 @@
 
 - name: Deep Learning
   percentage: 80
-  color: info
+  color:
 
 - name: NLP
   percentage: 60
@@ -13,3 +13,7 @@
 - name: Data Structure and Algorithms
   percentage: 50
   color: danger
+
+- name: Reinforcement Learning
+  percentage: 50
+  color: secondary
