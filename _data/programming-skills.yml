@@ -2,8 +2,16 @@
   percentage: 90
   color: danger
 
+- name: Tensorflow
+  percentage: 50
+  color: primary
+
+- name: Pytorch
+  percentage: 50
+  color: warning
+
 - name: C++
-  percentage: 80
+  percentage: 90
   color:
 
 - name: HTML/CSS
