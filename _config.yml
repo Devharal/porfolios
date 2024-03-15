@@ -5,7 +5,7 @@ description         : >-
 #baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -32,7 +32,7 @@ author:
   github            : Devharal
 # gitlab            : your_username
 # instagram         : your_username
-# kaggle            : your_username
+  kaggle            : devharal
   linkedin          : dev-haral-007786220
   #medium            : your_username
 # soundcloud        : your_username
