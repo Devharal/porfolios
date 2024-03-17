@@ -6,6 +6,10 @@
   percentage: 80
   color:
 
+- name: Reinforcement Learning
+  percentage: 50
+  color: secondary
+  
 - name: NLP
   percentage: 60
   color: success
@@ -14,6 +18,3 @@
   percentage: 50
   color: danger
 
-- name: Reinforcement Learning
-  percentage: 50
-  color: secondary
