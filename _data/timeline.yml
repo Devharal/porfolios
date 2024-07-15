@@ -10,7 +10,7 @@
 
 - title: SDE @IIT Mandi iHub | Internship
   from: Oct 2023
-  to:  Present
+  to:  Jan 2024
   description: Developed a resume parsing system, extracting information from PDFs and generating embeddings for efficient storage and analysis. Established and managed a Neo4j database for storing diverse datasets, optimizing for efficient querying and relationships.Conducted Twitter scraping for tweets and replies, storing the data for sentiment analysis and trend identification. Implemented OpenAI’s API for a PDF-based question-answering system, enhancing information retrieval from resumes.
 
   
